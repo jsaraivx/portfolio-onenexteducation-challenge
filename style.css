@@ -196,3 +196,6 @@
         align-items: center;
     }
 }
+body{
+    box-sizing: border-box;
+}
